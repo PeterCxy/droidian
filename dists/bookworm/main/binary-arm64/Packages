@@ -50,6 +50,23 @@ Description: Linux kernel for Sony Xperia 5 II - Android Boot Image
  Note: This package ships an Android Boot Image bundled with Halium's
  initramfs.
 
+Package: linux-bootimage-sony-pdx206
+Source: linux-android-sony-pdx206
+Version: 0.0.0+git20230128233502.81d52af.lineage.20
+Architecture: arm64
+Maintainer: Peter Cai <peter@typeblog.net>
+Installed-Size: 47
+Depends: linux-bootimage-4.19-0-sony-pdx206 (= 0.0.0+git20230128233502.81d52af.lineage.20)
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-sony-pdx206/linux-bootimage-sony-pdx206_0.0.0+git20230128233502.81d52af.lineage.20_arm64.deb
+Size: 41592
+SHA256: 8716d7f2974d6321e529d14befca0e3ba3abe13e16ae2ca7f2d27c7869bae934
+SHA1: 3f85a245edc0f494af8b9d2dd9a26be78add3c13
+MD5sum: 6cc21eb16c86ef0aba4e16589d67b438
+Description: Linux kernel for Sony Xperia 5 II - Android Boot Image  (latest)
+ This package depends to the latest kernel bootimage available for the Sony Xperia 5 II.
+
 Package: linux-headers-4.19-0-sony-pdx206
 Source: linux-android-sony-pdx206
 Version: 0.0.0+git20230128233502.81d52af.lineage.20
