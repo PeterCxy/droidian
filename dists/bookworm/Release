@@ -1,0 +1,28 @@
+Origin: petercxy.github.io/droidian
+Label: PeterCxy's Droidian Packages
+Codename: bookworm
+Date: Sun, 29 Jan 2023 01:49:46 UTC
+Architectures: arm64
+Components: main
+Description: Droidian packages by PeterCxy
+MD5Sum:
+ b872d28241c9e2c1b9d6bf171775d7f6 5389 main/binary-arm64/Packages
+ 2413b0529e2abf3b1a7fb2372f2286df 1469 main/binary-arm64/Packages.gz
+ dec37a02cf901e79c07244f58009d574 151 main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 4a693d81867ebb011dcd5cdebb74471b 152 main/source/Release
+SHA1:
+ 04c4fd57649e8bb606b61716f7b4d10e1ddafa21 5389 main/binary-arm64/Packages
+ 4f02ec6b0080faab1a13511f6746263662c79ba2 1469 main/binary-arm64/Packages.gz
+ 022c1ec9dcb93eba343ed124d652cb7e8f1d36cf 151 main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 1760e8ff680de6a4d0e4b6e1671e30900d5f1f66 152 main/source/Release
+SHA256:
+ e93fac735118a9c657d4ce189a59c955906204d8448f5b84a7f9c3404cb441b9 5389 main/binary-arm64/Packages
+ f019faf729e56a7982180aa49981789d144adb5a2c3eb65d3b68780c004a1699 1469 main/binary-arm64/Packages.gz
+ f39f359460291f589ae30513be12ae4a3f269aa4713133ab9629d2be6c2e0e13 151 main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 0c7a983dd7021687a9b21e7b8fb903ba9235b0fab769c32ae7241777dddbdd64 152 main/source/Release
