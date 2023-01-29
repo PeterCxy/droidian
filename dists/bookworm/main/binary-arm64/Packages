@@ -31,19 +31,19 @@ Description: Sony Xperia 5 II's specific adaptation configs
 
 Package: linux-bootimage-4.19-0-sony-pdx206
 Source: linux-android-sony-pdx206
-Version: 0.0.0+git20230128233502.81d52af.lineage.20
+Version: 0.0.0+git20230129224701.07a79f4.halium
 Architecture: arm64
 Maintainer: Peter Cai <peter@typeblog.net>
-Installed-Size: 78849
+Installed-Size: 78745
 Pre-Depends: flash-bootimage (>= 4)
-Depends: linux-image-4.19-0-sony-pdx206 (= 0.0.0+git20230128233502.81d52af.lineage.20)
+Depends: linux-image-4.19-0-sony-pdx206 (= 0.0.0+git20230129224701.07a79f4.halium)
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-android-sony-pdx206/linux-bootimage-4.19-0-sony-pdx206_0.0.0+git20230128233502.81d52af.lineage.20_arm64.deb
-Size: 76612040
-SHA256: 1c96f23972d902b4127988ed7be368c001f6f5d12c3bc026de9fb70731a7b5a6
-SHA1: df0aa62bd7682c0a5508add6db9b7a59a6c97260
-MD5sum: edf4670bcfbdc304d8acda712be48ed3
+Filename: pool/main/l/linux-android-sony-pdx206/linux-bootimage-4.19-0-sony-pdx206_0.0.0+git20230129224701.07a79f4.halium_arm64.deb
+Size: 76514464
+SHA256: 3ec934d1e97cf6d6e4316fe76dc072b8042e268eeeb4d0ab160e66b8b383cdd2
+SHA1: 67a52f98e0a1117acaa116642636961308d1c38c
+MD5sum: 53e3a9c175b67b5b8176a6023a780b1c
 Description: Linux kernel for Sony Xperia 5 II - Android Boot Image
  This package contains the Linux kernel for the Sony Xperia 5 II device.
  .
@@ -52,68 +52,68 @@ Description: Linux kernel for Sony Xperia 5 II - Android Boot Image
 
 Package: linux-bootimage-sony-pdx206
 Source: linux-android-sony-pdx206
-Version: 0.0.0+git20230128233502.81d52af.lineage.20
+Version: 0.0.0+git20230129224701.07a79f4.halium
 Architecture: arm64
 Maintainer: Peter Cai <peter@typeblog.net>
 Installed-Size: 47
-Depends: linux-bootimage-4.19-0-sony-pdx206 (= 0.0.0+git20230128233502.81d52af.lineage.20)
+Depends: linux-bootimage-4.19-0-sony-pdx206 (= 0.0.0+git20230129224701.07a79f4.halium)
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-android-sony-pdx206/linux-bootimage-sony-pdx206_0.0.0+git20230128233502.81d52af.lineage.20_arm64.deb
-Size: 41592
-SHA256: 8716d7f2974d6321e529d14befca0e3ba3abe13e16ae2ca7f2d27c7869bae934
-SHA1: 3f85a245edc0f494af8b9d2dd9a26be78add3c13
-MD5sum: 6cc21eb16c86ef0aba4e16589d67b438
+Filename: pool/main/l/linux-android-sony-pdx206/linux-bootimage-sony-pdx206_0.0.0+git20230129224701.07a79f4.halium_arm64.deb
+Size: 41784
+SHA256: 9250843199c186d37c8297dc98e9d17adb31e3ee16ed14a368c40f75363f20e5
+SHA1: 579e9a5a5dc2636473607fdc5e433d7a67a72a15
+MD5sum: 5cfebff5674097ba4daa329b73d27dbd
 Description: Linux kernel for Sony Xperia 5 II - Android Boot Image  (latest)
  This package depends to the latest kernel bootimage available for the Sony Xperia 5 II.
 
 Package: linux-headers-4.19-0-sony-pdx206
 Source: linux-android-sony-pdx206
-Version: 0.0.0+git20230128233502.81d52af.lineage.20
+Version: 0.0.0+git20230129224701.07a79f4.halium
 Architecture: arm64
 Maintainer: Peter Cai <peter@typeblog.net>
-Installed-Size: 56437
-Depends: linux-image-4.19-0-sony-pdx206 (= 0.0.0+git20230128233502.81d52af.lineage.20)
+Installed-Size: 56434
+Depends: linux-image-4.19-0-sony-pdx206 (= 0.0.0+git20230129224701.07a79f4.halium)
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-android-sony-pdx206/linux-headers-4.19-0-sony-pdx206_0.0.0+git20230128233502.81d52af.lineage.20_arm64.deb
-Size: 8887828
-SHA256: 245cc697fed350eb2827839288e4cab6e700541584f8f34af5b7b3934adc8db1
-SHA1: 1fbc01675b96af1f78e05a4983fe051e6d3b57ff
-MD5sum: dae17a52f329b186c2f001c34855f283
+Filename: pool/main/l/linux-android-sony-pdx206/linux-headers-4.19-0-sony-pdx206_0.0.0+git20230129224701.07a79f4.halium_arm64.deb
+Size: 8887960
+SHA256: 6efd32c3df1baa51aa8a98e57cbe061362cd6564860717171eb6d82926145a2e
+SHA1: 1eac6cb5dd171bc46d7ed37e627f73d8cdb9d5a6
+MD5sum: 95d4b08fce7db8f10e415cf800aa0457
 Description: Linux kernel for Sony Xperia 5 II - Headers
  This package contains the Linux kernel headers for the Sony Xperia 5 II device.
 
 Package: linux-headers-sony-pdx206
 Source: linux-android-sony-pdx206
-Version: 0.0.0+git20230128233502.81d52af.lineage.20
+Version: 0.0.0+git20230129224701.07a79f4.halium
 Architecture: arm64
 Maintainer: Peter Cai <peter@typeblog.net>
 Installed-Size: 47
-Depends: linux-headers-4.19-0-sony-pdx206 (= 0.0.0+git20230128233502.81d52af.lineage.20)
+Depends: linux-headers-4.19-0-sony-pdx206 (= 0.0.0+git20230129224701.07a79f4.halium)
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-android-sony-pdx206/linux-headers-sony-pdx206_0.0.0+git20230128233502.81d52af.lineage.20_arm64.deb
-Size: 41576
-SHA256: 1b7f3ee3eddbe001890fa9ede95bf7d2bac85b6cc7bdd171d768bb9fc6062646
-SHA1: 6d38d26a646f007b817b1e0c7e5c532f77262f8b
-MD5sum: 4b7d695e9abe8166f8d9a1103ebd6678
+Filename: pool/main/l/linux-android-sony-pdx206/linux-headers-sony-pdx206_0.0.0+git20230129224701.07a79f4.halium_arm64.deb
+Size: 41764
+SHA256: d9bbcf720de710d674e65141219d3c9095bb91c1f669eb3735985cbf4f5f4ade
+SHA1: 1a93b69afa6b73438702419f54fd041857098529
+MD5sum: b0eb59c2781f5113c4ec2f530115df72
 Description: Linux kernel for Sony Xperia 5 II - Headers (latest)
  This package depends to the latest kernel headers available for the Sony Xperia 5 II.
 
 Package: linux-image-4.19-0-sony-pdx206
 Source: linux-android-sony-pdx206
-Version: 0.0.0+git20230128233502.81d52af.lineage.20
+Version: 0.0.0+git20230129224701.07a79f4.halium
 Architecture: arm64
 Maintainer: Peter Cai <peter@typeblog.net>
-Installed-Size: 29742
+Installed-Size: 29692
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-android-sony-pdx206/linux-image-4.19-0-sony-pdx206_0.0.0+git20230128233502.81d52af.lineage.20_arm64.deb
-Size: 22036152
-SHA256: dfe16eaabeaeeda393efac25fcadb7313353ac107f138d9229f36bc481c26991
-SHA1: c4de54b6ed7621180e646cd39ae29de76e3c69e4
-MD5sum: 4be780eb6af872649d2eee4621902908
+Filename: pool/main/l/linux-android-sony-pdx206/linux-image-4.19-0-sony-pdx206_0.0.0+git20230129224701.07a79f4.halium_arm64.deb
+Size: 21985460
+SHA256: 8bff63627636692ee4dba3467d2bd52574ba7e34d8fae7e9bedbbd98ea7c33f2
+SHA1: 9575e37b03031400ed335b95732026b5de4c900c
+MD5sum: 2e21ea1da89339cb3e44251003814ea8
 Description: Linux kernel for Sony Xperia 5 II
  This package contains the Linux kernel for the Sony Xperia 5 II device.
  .
@@ -123,18 +123,18 @@ Description: Linux kernel for Sony Xperia 5 II
 
 Package: linux-image-sony-pdx206
 Source: linux-android-sony-pdx206
-Version: 0.0.0+git20230128233502.81d52af.lineage.20
+Version: 0.0.0+git20230129224701.07a79f4.halium
 Architecture: arm64
 Maintainer: Peter Cai <peter@typeblog.net>
 Installed-Size: 47
-Depends: linux-image-4.19-0-sony-pdx206 (= 0.0.0+git20230128233502.81d52af.lineage.20)
+Depends: linux-image-4.19-0-sony-pdx206 (= 0.0.0+git20230129224701.07a79f4.halium)
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-android-sony-pdx206/linux-image-sony-pdx206_0.0.0+git20230128233502.81d52af.lineage.20_arm64.deb
-Size: 41572
-SHA256: 23a90b3477aefa3abe45fbe7c21b4e10aea7b88a97934209f535a70d39500131
-SHA1: 42191ac6f7822d4047bb00e5e8e4fdd2871eb1dd
-MD5sum: b04979b345ec3d10b1a188b93673162d
+Filename: pool/main/l/linux-android-sony-pdx206/linux-image-sony-pdx206_0.0.0+git20230129224701.07a79f4.halium_arm64.deb
+Size: 41756
+SHA256: d9ecdda255ce5839d9fef98af03c55e85b2ffb7dad4865021cc123405b413861
+SHA1: 36f8b7bb2e88203b94535ba4b6f4c8be2e908278
+MD5sum: 1a65326d68f274b1d905e74438b2c2bc
 Description: Linux kernel for Sony Xperia 5 II (latest)
  This package depends to the latest kernel image available for the Sony Xperia 5 II.
 
