@@ -4,42 +4,42 @@ Hash: SHA256
 Origin: petercxy.github.io/droidian
 Label: PeterCxy's Droidian Packages
 Codename: bookworm
-Date: Sun, 29 Jan 2023 23:02:05 UTC
+Date: Mon, 30 Jan 2023 01:27:54 UTC
 Architectures: arm64
 Components: main
 Description: Droidian packages by PeterCxy
 MD5Sum:
- 6144c194bca5d74c1ce50ddeb0c1dcd2 6122 main/binary-arm64/Packages
- 1b54b165d3bd6a9ad1fecdbcb5aa9d59 1585 main/binary-arm64/Packages.gz
+ 61313553c5a25a1e8105b979f57e88b6 6122 main/binary-arm64/Packages
+ fc5ad15a1bc5804b74ac05dc6f2e1255 1588 main/binary-arm64/Packages.gz
  dec37a02cf901e79c07244f58009d574 151 main/binary-arm64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  4a693d81867ebb011dcd5cdebb74471b 152 main/source/Release
 SHA1:
- 07dc830fbe440277d6386c8d9e67750946c40c10 6122 main/binary-arm64/Packages
- e8d591a5b99b7f90959688c8e4fe3e55dfc42104 1585 main/binary-arm64/Packages.gz
+ 046358d2d4470a81f4be19e16149f84379f6a135 6122 main/binary-arm64/Packages
+ d8c2e3b0807d05d9eee3600b9d7419820cc17b5c 1588 main/binary-arm64/Packages.gz
  022c1ec9dcb93eba343ed124d652cb7e8f1d36cf 151 main/binary-arm64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  1760e8ff680de6a4d0e4b6e1671e30900d5f1f66 152 main/source/Release
 SHA256:
- 8cd3f7398b4893f0b0b10071358799f79021a2645d227aadbfa67d4a2dd5f2b9 6122 main/binary-arm64/Packages
- c80497a93ee19192d64af9b102e0a58bcd483da1087bc1e16845760be65d227f 1585 main/binary-arm64/Packages.gz
+ ef487c6c4b05d34c0d4ae542628789eaa44f980fd456682548413b1fa93ad63c 6122 main/binary-arm64/Packages
+ 0b22bbb5184b46c790421f1962c64e0343874b063ca266b830678c6b3824e2e3 1588 main/binary-arm64/Packages.gz
  f39f359460291f589ae30513be12ae4a3f269aa4713133ab9629d2be6c2e0e13 151 main/binary-arm64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
  0c7a983dd7021687a9b21e7b8fb903ba9235b0fab769c32ae7241777dddbdd64 152 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEWbwect360jLGA8JVvHSzGP+kSu4FAmPW+u0ACgkQvHSzGP+k
-Su7Ttgv/Xp4rTylEA+aMEiWj4XpZEi0npT82byrW8Y6vIxTwCEi6+bStJXaX4PQZ
-u3rSfwrpVC8NqcTrQBFjbsn5uObSohTPvIudB8ZslwaPthTTMhQYvVWmQGfRVEwd
-viIFqW6kuRTbWRZkwYg0US+jU1IcVua6ZzqHHCfsoNSAd44bWkJJePsq0osGor1t
-OlxQpWF9tfM8+lj1Rq1W96fZTR8fdpNhKuIgjsvE3GE+AdxYECxugiSP9/4Y0TjA
-eKTUUCoFtMnj/lN5qOD3k7HQG5yrPZcGYJ2kBi20YPj3DcwfE/eN2+LSLGOZlGwW
-WloX44sYoGJJiNWaRtHsoLY1zectckHS2wXJf6bIAh9oeVE3nGRFw62ym7PZQrXE
-5ntSz3DLPVFLbzF6c2JGh6ict08JkansMJfkp3wZ51xFYX1j0O8uKhlyxM3QNfJz
-TX3GqlWRN6WQgtx3gKcIm+9z0uh07cFjjqcn6t0jU9UELPLocAuWOHn1L8IFByg7
-B/e5kvTT
-=UqN3
+iQGzBAEBCAAdFiEEWbwect360jLGA8JVvHSzGP+kSu4FAmPXHRsACgkQvHSzGP+k
+Su67lgwAvUhNRjJRMmi7ls/XdT58Hv5ICPP7zkVYifNmSSxRhITn3M/eRf5N05Ux
+gN4SJZ74+Vm3KD+oh8PZxyFiks5M+EZnwUumgh/1yaozqcV7CQVQrMKjehYPgC0n
+ZFP6rZI0YmKarm32b0WbmqZrWIHquoa0oEaqoJUWzxCe/G+S2N1kkEEgouLIyMCL
+N0nI475w8wej0fzc+qemhUHWzx41vUPt7JHh9YJgHVu7p2u1LRF7LDvqYkemsc7c
+BNYQ68Wa805110jEbyy7SBlW7ESVI/Y0jSKWKNdDb8cBDUpb7sg/02Fhdp22IoMC
+B79Qw1m3Cl/2rJhRsVTmyxKdn5IEzZHa3cqnxgUr/VqCGrH2p9nUu/fUERTWKeXZ
+6Hicul7UlgTFEhJFGWDBQs3bwRp8z0E16stR9yT5az0dS1A44CHPQk9mIwWHQA4l
+sOuIsvxgq5O/btAUJELbHni3eZY3JN3Lgwi0j67NlQG/OAqByKN+4xl871w8bYpe
+OEBDt5Ex
+=pN1x
 -----END PGP SIGNATURE-----
