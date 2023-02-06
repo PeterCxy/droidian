@@ -29,6 +29,40 @@ SHA1: aa5f3f1e09bfe196957b2eb0b5de6f618e94bfb9
 MD5sum: 91ffa1b760a77cc3d714cc71daff7f58
 Description: Sony Xperia 5 II's specific adaptation configs
 
+Package: hook-phosh-noime
+Version: 0.0.0+git20230205230609.45ba86c.master+git20230205231614.52a2221.master+git20230206010344.6fbbc03.master+git20230206011021.3a7beda.master
+Architecture: arm64
+Maintainer: Peter Cai <peter@typeblog.net>
+Installed-Size: 79
+Depends: libc6 (>= 2.34)
+Priority: optional
+Section: libs
+Filename: pool/main/h/hook-phosh-noime/hook-phosh-noime_0.0.0+git20230205230609.45ba86c.master+git20230205231614.52a2221.master+git20230206010344.6fbbc03.master+git20230206011021.3a7beda.master_arm64.deb
+Size: 3360
+SHA256: 7dec1cf6d52e15c49beaeaace1e2a9a47ca03f9f3d9e35671811e1c809090ad9
+SHA1: db1b3f656acac78bb2abe45f2341318f64fccfaa
+MD5sum: 68a446f0cb2a744eec965934ddb2841d
+Description: Hook to disable GTK_IM_MODULE for Phosh, working around
+             bugs with Phosh when GTK_IM_MODULE is set.
+
+Package: hook-phosh-noime-dbgsym
+Source: hook-phosh-noime
+Version: 0.0.0+git20230205230609.45ba86c.master+git20230205231614.52a2221.master+git20230206010344.6fbbc03.master+git20230206011021.3a7beda.master
+Auto-Built-Package: debug-symbols
+Architecture: arm64
+Maintainer: Peter Cai <peter@typeblog.net>
+Installed-Size: 17
+Depends: hook-phosh-noime (= 0.0.0+git20230205230609.45ba86c.master+git20230205231614.52a2221.master+git20230206010344.6fbbc03.master+git20230206011021.3a7beda.master)
+Priority: optional
+Section: debug
+Filename: pool/main/h/hook-phosh-noime/hook-phosh-noime-dbgsym_0.0.0+git20230205230609.45ba86c.master+git20230205231614.52a2221.master+git20230206010344.6fbbc03.master+git20230206011021.3a7beda.master_arm64.deb
+Size: 3600
+SHA256: ddf84edd596c07dcc6a0796cdae7933c95dc3e261b860222d28237b65b9c28c8
+SHA1: 42dae81b6ba128f6d39c784b52d0a609a4c4d82d
+MD5sum: e582aefc59c7fe9762998be10179af75
+Description: debug symbols for hook-phosh-noime
+Build-Ids: 3526a5be370a79798d6a1cdc62b83744cd5d90d7
+
 Package: linux-bootimage-4.19-0-sony-pdx206
 Source: linux-android-sony-pdx206
 Version: 0.0.0+git20230130010942.d5c293d.halium
