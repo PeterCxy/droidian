@@ -1,27 +1,27 @@
 Origin: petercxy.github.io/droidian
 Label: PeterCxy's Droidian Packages
 Codename: bookworm
-Date: Mon, 06 Feb 2023 01:24:49 UTC
+Date: Sun, 12 Feb 2023 21:11:41 UTC
 Architectures: arm64
 Components: main
 Description: Droidian packages by PeterCxy
 MD5Sum:
- 70bc601139f5a6bdf342ea8423707f29 7944 main/binary-arm64/Packages
- 4697a26f449efd21131adf7fb01912a9 2051 main/binary-arm64/Packages.gz
+ 914666a7063acbb42e2f580aaeba720c 7944 main/binary-arm64/Packages
+ 0ea86d0695b43b62c253740e2caee68c 2054 main/binary-arm64/Packages.gz
  dec37a02cf901e79c07244f58009d574 151 main/binary-arm64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  4a693d81867ebb011dcd5cdebb74471b 152 main/source/Release
 SHA1:
- 69887aa72e7cc542a2c4f1b1cad0b1c78f394572 7944 main/binary-arm64/Packages
- 5f493bcfde489a858962ccb95603359eb2a8525c 2051 main/binary-arm64/Packages.gz
+ 73531a3519cc439eaa86d01b9508b69f82e6904f 7944 main/binary-arm64/Packages
+ 941e720d521dedadd202be3fd25fbc9575271e48 2054 main/binary-arm64/Packages.gz
  022c1ec9dcb93eba343ed124d652cb7e8f1d36cf 151 main/binary-arm64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  1760e8ff680de6a4d0e4b6e1671e30900d5f1f66 152 main/source/Release
 SHA256:
- 6b687ff62d5b3b3ba7bd6f49f78736c8e5f2b724c87a5fa633bfb079796c9573 7944 main/binary-arm64/Packages
- 4234faba3e5b8aa06d48ce5af24aa02024c18a81a87df3bee0154a11f668235a 2051 main/binary-arm64/Packages.gz
+ 7aa647dd67e2fdc9522d62f58edda35349baab4bb4d9c4eaadb4782b069a8692 7944 main/binary-arm64/Packages
+ c10c560a58c6aefcc96b9f801067aaf9f2756dfa1e911c4a6a787897cd651d51 2054 main/binary-arm64/Packages.gz
  f39f359460291f589ae30513be12ae4a3f269aa4713133ab9629d2be6c2e0e13 151 main/binary-arm64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
