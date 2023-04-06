@@ -1,32 +1,32 @@
 Package: adaptation-sony-pdx206
-Version: 0.0.0+git20230212212102.d7ec9fb.bookworm
+Version: 0.0.0+git20230406015642.ed69595.bookworm
 Architecture: all
 Maintainer: Peter Cai <peter@typeblog.net>
 Installed-Size: 9
 Depends: linux-bootimage-sony-pdx206, adaptation-hybris-api30-phone, adaptation-sony-pdx206-configs
 Priority: optional
 Section: metapackages
-Filename: pool/main/a/adaptation-sony-pdx206/adaptation-sony-pdx206_0.0.0+git20230212212102.d7ec9fb.bookworm_all.deb
-Size: 2256
-SHA256: 5d7476c843afa12f17fbddbc70a78b409b6f85cf71ac364795fa125d434e074e
-SHA1: adf96e910de3be2ba75dfc9126218b871eb2ad34
-MD5sum: 6e01e7897237eebdfa4c6230cb40b8e8
+Filename: pool/main/a/adaptation-sony-pdx206/adaptation-sony-pdx206_0.0.0+git20230406015642.ed69595.bookworm_all.deb
+Size: 2272
+SHA256: ad6796f280b95cc9accbdbcae642b17ef33c8b4dc32c5c9585293810557605c8
+SHA1: 954b1dc66884509e31831d1b8f751ca0f24a030c
+MD5sum: da091cad5fcc6e37e1308e1e35d4aa45
 Description: adapatation-sony-pdx206 - meta
  Sony Xperia 5 II api30 adaptation metapackage
 
 Package: adaptation-sony-pdx206-configs
 Source: adaptation-sony-pdx206
-Version: 0.0.0+git20230212212102.d7ec9fb.bookworm
+Version: 0.0.0+git20230406015642.ed69595.bookworm
 Architecture: all
 Maintainer: Peter Cai <peter@typeblog.net>
-Installed-Size: 43
+Installed-Size: 45
 Priority: optional
 Section: metapackages
-Filename: pool/main/a/adaptation-sony-pdx206/adaptation-sony-pdx206-configs_0.0.0+git20230212212102.d7ec9fb.bookworm_all.deb
-Size: 4476
-SHA256: 2a9666018be6ab1d9f30d16a75ebd1c9043de16657e2522a35044515637349a7
-SHA1: 11e340dbe801920e70516c355b0dd90076194eac
-MD5sum: 37ab68b54de843dd5ee37763e0708127
+Filename: pool/main/a/adaptation-sony-pdx206/adaptation-sony-pdx206-configs_0.0.0+git20230406015642.ed69595.bookworm_all.deb
+Size: 4588
+SHA256: 1148d2b7168493f926a4b9a02aaf2002bb26ef82b29d13a2c6a1ba716850e60f
+SHA1: 3961cd236cb7006381df766461fc7698eea5c48b
+MD5sum: 5a790cd082d85b571df88f463367de0c
 Description: Sony Xperia 5 II's specific adaptation configs
 
 Package: hook-phosh-noime
