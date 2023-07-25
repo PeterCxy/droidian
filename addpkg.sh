@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-reprepro -b . includedeb bookworm ../packages/$1
+reprepro -b . includedeb trixie ../packages/$1

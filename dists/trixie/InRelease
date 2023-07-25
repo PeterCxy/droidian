@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: petercxy.github.io/droidian
+Label: PeterCxy's Droidian Packages
+Codename: trixie
+Date: Tue, 25 Jul 2023 21:09:34 UTC
+Architectures: arm64
+Components: main
+Description: Droidian packages by PeterCxy
+MD5Sum:
+ 2640e17f5052445d27b28042575e39d0 6620 main/binary-arm64/Packages
+ 06521e66abef73cc169cc1819639c210 2240 main/binary-arm64/Packages.gz
+ dec37a02cf901e79c07244f58009d574 151 main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 4a693d81867ebb011dcd5cdebb74471b 152 main/source/Release
+SHA1:
+ a75a4d45c9f94baad212fc035df9387f70f01a56 6620 main/binary-arm64/Packages
+ f1d53c30c9b4d7d7710378ce6d0968315d98f07f 2240 main/binary-arm64/Packages.gz
+ 022c1ec9dcb93eba343ed124d652cb7e8f1d36cf 151 main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 1760e8ff680de6a4d0e4b6e1671e30900d5f1f66 152 main/source/Release
+SHA256:
+ 31024700112cb8a8f512634bcc914bac8acf0e3325c2bc94e4003f6911e35f28 6620 main/binary-arm64/Packages
+ 493c980c4c3b690e2e0edbdaf72f41d67f59f0573bacfef9c8c6259e79496728 2240 main/binary-arm64/Packages.gz
+ f39f359460291f589ae30513be12ae4a3f269aa4713133ab9629d2be6c2e0e13 151 main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 0c7a983dd7021687a9b21e7b8fb903ba9235b0fab769c32ae7241777dddbdd64 152 main/source/Release
+SHA512:
+ 1a36faea9394b310059c29a0c79c3bb134e67bfb28b7974f6f9871a736daa1ee73e3f90f0cfeea91b9e7e643af87ec4f0941536a17d2ebd411928f33bdc652c4 6620 main/binary-arm64/Packages
+ 9366d5c2a39c8e95fe116061606231980271420a7f121408f148c7b2ef38e89d754a9ad2cf3be1aa5209a35ce6390b0748c4b57d9c29f2d30862ca42043c312d 2240 main/binary-arm64/Packages.gz
+ a63c542b1cd6483ebb2a513d0ab28773963f3ad45cc491afaa38406798edb280e7961d6be5c782d11eb6cd199ffc2a27b043b10ed0c55ba09034409cc1a34205 151 main/binary-arm64/Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e 0 main/source/Sources
+ 7e8e93f4a89ce7fae011403e14a1d53544c6e6f6b6010d61129dc27937806d2b03802610d7999eab33a4c36b0f9e001d9d76001b8354087634c1aa9c740c536f 20 main/source/Sources.gz
+ dcc64af0371351785f833f9c200349ba48dbf9d20e74e7fb88e0d6acadd117d69d8555c9a440a6eacec38f6f57c0d48aaf189541e2f31013057f69a351818904 152 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEWbwect360jLGA8JVvHSzGP+kSu4FAmTAOg4ACgkQvHSzGP+k
+Su6v8Qv9E93MmgYA8zx0jTP5rJder7dTNR2swQpSxQBI4rvn0fVlaGyON6Ut9V5H
++uNfrVBbvuzu2LZW7002RWqyHMTaVtXkDyZ6A1Nvr+0q1zf+vvT9y9La+zc+kwhp
+uCkIVmNSXFhywkOX1DvhDJn2Bbp1yK8wtHlsf1WOd7fS9Sw1cPpsDR1pnzlEYWL8
+oA+lj4sag2u5GcGi0WNYciKDIK6xgEWokg1LhJFCAaedS2bBpvQuJ/EYwNBUNtWD
+kf5K+9C57U4TKdA7uO232q/hAtNx1aRmRSVSD0jGfeest1/jnGbSKGWREFd0juhB
+dXoH5blOt72cU1GZF2YL7E5GH0HO5aQTx9yG2ed/It5Ee1wILsYrs+fjGDlRvkmE
+a87p84uzLUAhKTxkzBIb86NS1AgdznFasJVARR6JClDLlByls9Sfy6asAKXwHYOE
+JGCAAzZnuFr53VYbBiVq2TOYLXXGRNiFiupOyeQBDnWE4pLOg089UgvOFXaq4PYW
+unrCtK+m
+=6vvn
+-----END PGP SIGNATURE-----

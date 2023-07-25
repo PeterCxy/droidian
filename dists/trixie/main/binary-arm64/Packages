@@ -1,0 +1,130 @@
+Package: adaptation-sony-pdx206
+Version: 0.0.0+git20230406015642.ed69595.droidian
+Architecture: all
+Maintainer: Peter Cai <peter@typeblog.net>
+Installed-Size: 9
+Depends: linux-bootimage-sony-pdx206, adaptation-hybris-api30-phone, adaptation-sony-pdx206-configs
+Priority: optional
+Section: metapackages
+Filename: pool/main/a/adaptation-sony-pdx206/adaptation-sony-pdx206_0.0.0+git20230406015642.ed69595.droidian_all.deb
+Size: 2272
+SHA512: 6fddb7e27d85866129cf274ca12c91a68a6e1d30e43d9b7e6b0d046d945436efa3585c7b368a03a9e6a410824cf0b0a3b8b2f5b76b8d7fdccd708584360567d7
+SHA256: 0769690147d985bfc47fa3293d7153bee11b775add1a14577d9f54f9e17e3f52
+SHA1: 7f918bcd57947fe87d181c2f72f4688e17c609a0
+MD5sum: 0b377a0439fbf2e049d5e2e210c29fef
+Description: adapatation-sony-pdx206 - meta
+ Sony Xperia 5 II api30 adaptation metapackage
+
+Package: adaptation-sony-pdx206-configs
+Source: adaptation-sony-pdx206
+Version: 0.0.0+git20230406015642.ed69595.droidian
+Architecture: all
+Maintainer: Peter Cai <peter@typeblog.net>
+Installed-Size: 45
+Priority: optional
+Section: metapackages
+Filename: pool/main/a/adaptation-sony-pdx206/adaptation-sony-pdx206-configs_0.0.0+git20230406015642.ed69595.droidian_all.deb
+Size: 4592
+SHA512: b0db8b9ebcae0b0f5ebb94187d234054edc53324c8a21bd79ef1c80b75967df00344b938d981c36c66b3ad0f11fe779ac2909c215a248291cad5c66afd536801
+SHA256: f90ad482e4140864889ff4712686d5c63bd08c7defcd61db7e56b1e7ae3cb0b2
+SHA1: e1c1f2a2c8d1b84eaae0b775123f8cb367b8c77c
+MD5sum: d43223239bfeb995160bf942f20cc7a1
+Description: Sony Xperia 5 II's specific adaptation configs
+
+Package: hook-phosh-noime
+Version: 0.0.0+git20230205230609.45ba86c.master+git20230205231614.52a2221.master+git20230206010344.6fbbc03.master+git20230725205620.2a890ea.droidian
+Architecture: arm64
+Maintainer: Peter Cai <peter@typeblog.net>
+Installed-Size: 79
+Depends: libc6 (>= 2.34)
+Priority: optional
+Section: libs
+Filename: pool/main/h/hook-phosh-noime/hook-phosh-noime_0.0.0+git20230205230609.45ba86c.master+git20230205231614.52a2221.master+git20230206010344.6fbbc03.master+git20230725205620.2a890ea.droidian_arm64.deb
+Size: 3404
+SHA512: 1a52f2911dc8229b61b9ec8eb762b0242e4c5de90531770d76d1a42aee3fe2a639109dbb5f1c15c7e7b7ed85db36c7e9143d4d78b9246eacac1f1d9790479c0d
+SHA256: 7ed37ee51f340f7187e5e0bfa571d9931b3b959ccd5341c5a33f95d537c0a142
+SHA1: 79ae263f2c84fe5f993c5ee97d12a53ea0f748f8
+MD5sum: 3b33392871588b1506bbfd2dcc628e18
+Description: Hook to disable GTK_IM_MODULE for Phosh, working around
+             bugs with Phosh when GTK_IM_MODULE is set.
+
+Package: hook-phosh-noime-dbgsym
+Source: hook-phosh-noime
+Version: 0.0.0+git20230205230609.45ba86c.master+git20230205231614.52a2221.master+git20230206010344.6fbbc03.master+git20230725205620.2a890ea.droidian
+Auto-Built-Package: debug-symbols
+Architecture: arm64
+Maintainer: Peter Cai <peter@typeblog.net>
+Installed-Size: 17
+Depends: hook-phosh-noime (= 0.0.0+git20230205230609.45ba86c.master+git20230205231614.52a2221.master+git20230206010344.6fbbc03.master+git20230725205620.2a890ea.droidian)
+Priority: optional
+Section: debug
+Filename: pool/main/h/hook-phosh-noime/hook-phosh-noime-dbgsym_0.0.0+git20230205230609.45ba86c.master+git20230205231614.52a2221.master+git20230206010344.6fbbc03.master+git20230725205620.2a890ea.droidian_arm64.deb
+Size: 3608
+SHA512: e405689219d4b48b031cfef3978d5f2c85cac143520dd4e8fa2188318ddf29020ff8d06819c1d7ccd0c89e8557acfb87a9181c4c9e58c6d99c1ff6913c7e85a9
+SHA256: 26707c9d358a472c8f01991b96f9b403cc5cb7cb7a3fd3b9516afb01e6339bab
+SHA1: 03c2503ebc4dac71c473dd8542484ed111e6751a
+MD5sum: 1a984885ded7fc2aa51b194e9424b6d6
+Description: debug symbols for hook-phosh-noime
+Build-Ids: 58a9c97059bd4f2fc04c603bcd073bdae4e4984e
+
+Package: linux-bootimage-4.19-0-sony-pdx206
+Source: linux-android-sony-pdx206
+Version: 0.0.0+git20230725205515.292ca08.droidian
+Architecture: arm64
+Maintainer: Peter Cai <peter@typeblog.net>
+Installed-Size: 80173
+Pre-Depends: flash-bootimage (>= 4)
+Depends: linux-image-4.19-0-sony-pdx206 (= 0.0.0+git20230725205515.292ca08.droidian)
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-sony-pdx206/linux-bootimage-4.19-0-sony-pdx206_0.0.0+git20230725205515.292ca08.droidian_arm64.deb
+Size: 77957668
+SHA512: 095067f0e8ee014d912f9517ee1afa9e6bfd736c7e32abbeb4181c6a203848cec76058cf8a3bda9cdcc9a3ba500ad280346903a9338606a0a0bb1e786d171138
+SHA256: 90388c39acc2769d06a5a3bd2421688224e76c0c659b378274d268c53d6e2614
+SHA1: 9b90aba80a3a79fa39ef83913463b83a925cbbdd
+MD5sum: 58b3bab14c83828a512418052be4ed51
+Description: Linux kernel for Sony Xperia 5 II - Android Boot Image
+ This package contains the Linux kernel for the Sony Xperia 5 II device.
+ .
+ Note: This package ships an Android Boot Image bundled with Halium's
+ initramfs.
+
+Package: linux-headers-4.19-0-sony-pdx206
+Source: linux-android-sony-pdx206
+Version: 0.0.0+git20230725205515.292ca08.droidian
+Architecture: arm64
+Maintainer: Peter Cai <peter@typeblog.net>
+Installed-Size: 56436
+Depends: linux-image-4.19-0-sony-pdx206 (= 0.0.0+git20230725205515.292ca08.droidian)
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-sony-pdx206/linux-headers-4.19-0-sony-pdx206_0.0.0+git20230725205515.292ca08.droidian_arm64.deb
+Size: 8887552
+SHA512: 4b42673884103e273ea23f63c6c241a7a20eae35bdfbc29b12e8d03bc212a87b2b750688f9f6531749ee342e76330d08e5b00a781326863c3fecbd350fcf2c34
+SHA256: 97fa5a93b50a525af8d1690e99f2975b4097738bc5f39264494f6b863b17e776
+SHA1: e8f4931d69f9dcca7e2fe9c08372b3e52e01fa12
+MD5sum: d9d9186214aee49df6799298f97e8024
+Description: Linux kernel for Sony Xperia 5 II - Headers
+ This package contains the Linux kernel headers for the Sony Xperia 5 II device.
+
+Package: linux-image-4.19-0-sony-pdx206
+Source: linux-android-sony-pdx206
+Version: 0.0.0+git20230725205515.292ca08.droidian
+Architecture: arm64
+Maintainer: Peter Cai <peter@typeblog.net>
+Installed-Size: 29696
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-android-sony-pdx206/linux-image-4.19-0-sony-pdx206_0.0.0+git20230725205515.292ca08.droidian_arm64.deb
+Size: 21985788
+SHA512: 6e33306af3205934fc8408e89eed703229b32538f81f85997dc11c4229b8af62923334665ac68e9010363438875aa33a6b31b1f1e6850edd10717ca18c496759
+SHA256: 6f9eda95a454af8ddf035d1caa1af12e58c6e43c898cb294cd0cefe64c3b1c63
+SHA1: 499f5a1ed500d3a3a9e48c763dfc0efbd4ca4f3c
+MD5sum: 31d391a102e0bf3d464c4b7c9c94a061
+Description: Linux kernel for Sony Xperia 5 II
+ This package contains the Linux kernel for the Sony Xperia 5 II device.
+ .
+ Note: This package only ships the kernel image and modules, you should probably
+ look at the linux-bootimage-4.19-0-sony-pdx206 package for a bootimage suitable
+ for Android boot loaders.
+

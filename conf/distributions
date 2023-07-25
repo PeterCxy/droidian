@@ -6,3 +6,12 @@ Components: main
 Description: Droidian packages by PeterCxy
 SignWith: 59BC1E72DDFAD232C603C255BC74B318FFA44AEE
 Pull: bookworm
+
+Origin: petercxy.github.io/droidian
+Label: PeterCxy's Droidian Packages
+Codename: trixie
+Architectures: arm64 source
+Components: main
+Description: Droidian packages by PeterCxy
+SignWith: 59BC1E72DDFAD232C603C255BC74B318FFA44AEE
+Pull: trixie
